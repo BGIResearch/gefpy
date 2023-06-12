@@ -23,7 +23,7 @@ Provides access to the cgef_adjust interface.
         :param celldata: input the cell data
         :param dandata: input the dandata
         
-         .. py:method:: create_Region_Bgef(self, inpath, outpath, pos)
+    .. py:method:: create_Region_Bgef(self, inpath, outpath, pos)
 
         generate spatial bin gef file by lasso region datas
 
